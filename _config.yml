@@ -150,7 +150,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 navbar-img: "/assets/img/chill.png"
-footer-img: "/assets/img/shorekeeper.png"
+footer-img: "/assets/img/chill.png"
 page-img: "/assets/img/3d08a516-85c6-48d0-89de-20d51ecfbdbe.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
